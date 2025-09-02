@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Bhavishya 👋
 
-<!--
-**bhavishya-11/bhavishya-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech in Artificial Intelligence & Machine Learning  
+💡 Exploring Data Structures, Algorithms, and Machine Learning  
+🚀 Currently working on: [My LeetCode Worklog](https://github.com/YOUR-REPO)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python, C++  
+- **ML/DL**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy   
+- **Database**: MySQL
+
+---
+
+### 📊 GitHub Stats
+![Bhavishya's GitHub stats](https://github-readme-stats.vercel.app/api?bhavishya-11=BHAVISHYA-11&show_icons=true&theme=tokyonight)
+
+---
+
+### 📂 Featured Projects
+- [Daily Learning Log](https://github.com/bhavishya-11/daily-learning-log) 📘 
+- [Leetcode Worklog](https://github.com/bhavishya-11/leetcode-worklog) 📘
+
+---
+
+✨ “Consistency > Motivation” — working towards Microsoft/Google 🚀
