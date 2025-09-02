@@ -22,8 +22,8 @@
 ---
 
 ### 📂 Featured Projects
-- [Daily Learning Log](https://github.com/bhavishya-11/daily-learning-log) 📘 
-- [Leetcode Worklog](https://github.com/bhavishya-11/leetcode-worklog) 📘
+- [Vision Project - Air Canvas](https://github.com/bhavishya-11/vision-project-air-canvas)  
+- [Personalised Skill Growth Tracker](https://github.com/bhavishya-11/Personalised-Skill-Growth-Tracker)
 
 ---
 
