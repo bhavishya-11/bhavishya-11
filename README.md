@@ -14,7 +14,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Bhavishya's GitHub stats](https://github-readme-stats.vercel.app/api?bhavishya-11=BHAVISHYA-11&show_icons=true&theme=tokyonight)
+![Bhavishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHAVISHYA-11&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVISHYA-11&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BHAVISHYA-11&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
