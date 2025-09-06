@@ -2,7 +2,7 @@
 
 🎓 Final Year B.Tech in Artificial Intelligence & Machine Learning  
 💡 Exploring Data Structures, Algorithms, and Machine Learning  
-🚀 Currently working on: [My LeetCode Worklog](https://github.com/YOUR-REPO)  
+🚀 Currently working on: [My LeetCode Worklog](https://github.com/bhavishya-11/leetcode-worklog)  
 
 ---
 
